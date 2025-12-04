@@ -360,3 +360,5 @@ By completing this roadmap, you will be able to:
 
 You become a **full-stack quant** — capable of trading, modeling, researching, and engineering in the same way hedge funds operate.
 
+Repo you can take a look at: https://github.com/AI4Finance-Foundation/FinRL?utm_source=chatgpt.com
+
